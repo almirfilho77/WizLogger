@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WizLogger", "WizLogger\WizLogger.csproj", "{21F3B8B8-BE21-41C6-969A-188600F2598E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sandbox", "Sandbox\Sandbox.csproj", "{F2E5A6CB-F2C1-4102-8518-926A230A1129}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21F3B8B8-BE21-41C6-969A-188600F2598E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21F3B8B8-BE21-41C6-969A-188600F2598E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21F3B8B8-BE21-41C6-969A-188600F2598E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21F3B8B8-BE21-41C6-969A-188600F2598E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2E5A6CB-F2C1-4102-8518-926A230A1129}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2E5A6CB-F2C1-4102-8518-926A230A1129}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2E5A6CB-F2C1-4102-8518-926A230A1129}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2E5A6CB-F2C1-4102-8518-926A230A1129}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D1D08D1-A581-4CC2-82E3-26CDCE1B4F54}
+	EndGlobalSection
+EndGlobal
